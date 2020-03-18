@@ -1,4 +1,4 @@
-evaluate.py and transform.py were updated for TensorFlow 2.0.
+evaluate.py and transform.py are updated for TensorFlow 2.0.
 
 
 ## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
